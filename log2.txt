@@ -1,0 +1,324 @@
+
+Model Name: SE_Res2Net_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 8.18
+Single Data Point Run Time: 16.44
+Average Memory Usage: 991.98
+Number of parameters: 1604265
+
+Model Name: CNN_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 0.46
+Single Data Point Run Time: 1.29
+Average Memory Usage: 1095.81
+Number of parameters: 158540
+
+Model Name: msap_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 11.89
+Single Data Point Run Time: 32.49
+Average Memory Usage: 1026.25
+Number of parameters: 19918211
+
+Model Name: LSTM_CNN_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 8.90
+Single Data Point Run Time: 21.61
+Average Memory Usage: 944.03
+Number of parameters: 2125708
+
+Model Name: TSE_CNN_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 0.45
+Single Data Point Run Time: 1.32
+Average Memory Usage: 1094.09
+Number of parameters: 158540
+
+Model Name: resnet50_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 120.35
+Single Data Point Run Time: 153.97
+Average Memory Usage: 1030.28
+Number of parameters: 22068109
+
+Model Name: Gated_Res2Net_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 9.30
+Single Data Point Run Time: 18.86
+Average Memory Usage: 997.61
+Number of parameters: 1604265
+
+Model Name: CNN_GRU_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 1.57
+Single Data Point Run Time: 18.41
+Average Memory Usage: 971.78
+Number of parameters: 4384460
+
+Model Name: LSTM_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 2.97
+Single Data Point Run Time: 18.02
+Average Memory Usage: 924.50
+Number of parameters: 304140
+
+Model Name: CNN_GRU_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 9.78
+Single Data Point Run Time: 15.84
+Average Memory Usage: 1862.70
+Number of parameters: 4379270
+
+Model Name: CNN_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 2.82
+Single Data Point Run Time: 1.36
+Average Memory Usage: 1181.78
+Number of parameters: 103622
+
+Model Name: LSTM_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 11.56
+Single Data Point Run Time: 7.50
+Average Memory Usage: 902.14
+Number of parameters: 165206
+
+Model Name: SE_Res2Net_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 52.34
+Single Data Point Run Time: 12.34
+Average Memory Usage: 944.77
+Number of parameters: 1603209
+
+Model Name: msap_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 59.95
+Single Data Point Run Time: 29.01
+Average Memory Usage: 1104.72
+Number of parameters: 8864105
+
+Model Name: Gated_Res2Net_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 52.21
+Single Data Point Run Time: 12.96
+Average Memory Usage: 1015.86
+Number of parameters: 1603209
+
+Model Name: CNN_oppo_model.pt
+Dataset name: OPPO
+Run Time: 0.14
+Single Data Point Run Time: 1.30
+Average Memory Usage: 1935.84
+Number of parameters: 120786
+
+Model Name: LSTM_oppo_model.pt
+Dataset name: OPPO
+Run Time: 0.67
+Single Data Point Run Time: 5.20
+Average Memory Usage: 1905.02
+Number of parameters: 384530
+
+Model Name: msap_oppo_model.pt
+Dataset name: OPPO
+Run Time: 9.61
+Single Data Point Run Time: 173.60
+Average Memory Usage: 2276.61
+Number of parameters: 79611815
+
+Model Name: SE_Res2Net_oppo_model.pt
+Dataset name: OPPO
+Run Time: 1.73
+Single Data Point Run Time: 11.34
+Average Memory Usage: 1927.23
+Number of parameters: 1606729
+
+Model Name: Gated_Res2Net_oppo_model.pt
+Dataset name: OPPO
+Run Time: 1.73
+Single Data Point Run Time: 11.03
+Average Memory Usage: 1923.75
+Number of parameters: 1606729
+
+Model Name: ATT_wisdm_model.pt
+Dataset name: OPPO
+Run Time: 10.89
+Single Data Point Run Time: 6.24
+Average Memory Usage: 2165.69
+Number of parameters: 379782
+
+Model Name: CNN_GRU_oppo_model.pt
+Dataset name: OPPO
+Run Time: 0.47
+Single Data Point Run Time: 15.37
+Average Memory Usage: 2017.45
+Number of parameters: 4392466
+
+Model Name: LSTM_CNN_oppo_model.pt
+Dataset name: OPPO
+Run Time: 1.27
+Single Data Point Run Time: 4.41
+Average Memory Usage: 2093.44
+Number of parameters: 2132178
+
+Model Name: resnext50_oppo_model.pt
+Dataset name: OPPO
+Run Time: 20.74
+Single Data Point Run Time: 95.12
+Average Memory Usage: 2077.50
+Number of parameters: 22114899
+
+Model Name: ATT_uci_model.pt
+Dataset name: UCI
+Run Time: 1.51
+Single Data Point Run Time: 13.49
+Average Memory Usage: 898.52
+Number of parameters: 274950
+
+Model Name: CNN_uci_model.pt
+Dataset name: UCI
+Run Time: 0.24
+Single Data Point Run Time: 1.14
+Average Memory Usage: 961.47
+Number of parameters: 110534
+
+Model Name: LSTM_CNN_uci_model.pt
+Dataset name: UCI
+Run Time: 4.56
+Single Data Point Run Time: 14.99
+Average Memory Usage: 904.84
+Number of parameters: 2122438
+
+Model Name: Gated_Res2Net_uci_model.pt
+Dataset name: UCI
+Run Time: 4.79
+Single Data Point Run Time: 12.51
+Average Memory Usage: 931.31
+Number of parameters: 1603401
+
+Model Name: CNN_GRU_uci_model.pt
+Dataset name: UCI
+Run Time: 0.84
+Single Data Point Run Time: 15.41
+Average Memory Usage: 1043.50
+Number of parameters: 4379654
+
+Model Name: msap_uci_model.pt
+Dataset name: UCI
+Run Time: 5.61
+Single Data Point Run Time: 29.98
+Average Memory Usage: 1015.34
+Number of parameters: 8864297
+
+Model Name: LSTM_uci_model.pt
+Dataset name: UCI
+Run Time: 1.50
+Single Data Point Run Time: 13.81
+Average Memory Usage: 897.64
+Number of parameters: 274950
+
+Model Name: resnext50_uci_model.pt
+Dataset name: UCI
+Run Time: 53.79
+Single Data Point Run Time: 135.66
+Average Memory Usage: 1006.08
+Number of parameters: 22043719
+
+Model Name: SE_Res2Net_uci_model.pt
+Dataset name: UCI
+Run Time: 4.77
+Single Data Point Run Time: 12.74
+Average Memory Usage: 924.27
+Number of parameters: 1603401
+
+Model Name: CNN_GRU_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 11.77
+Single Data Point Run Time: 15.60
+Average Memory Usage: 1866.73
+Number of parameters: 4379270
+
+Model Name: CNN_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 2.43
+Single Data Point Run Time: 1.30
+Average Memory Usage: 1185.92
+Number of parameters: 103622
+
+Model Name: LSTM_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 11.57
+Single Data Point Run Time: 7.46
+Average Memory Usage: 907.42
+Number of parameters: 165206
+
+Model Name: SE_Res2Net_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 51.52
+Single Data Point Run Time: 12.75
+Average Memory Usage: 1292.69
+Number of parameters: 1603209
+
+Model Name: msap_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 59.31
+Single Data Point Run Time: 28.78
+Average Memory Usage: 1013.34
+Number of parameters: 8864105
+
+Model Name: Gated_Res2Net_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 52.46
+Single Data Point Run Time: 12.62
+Average Memory Usage: 947.77
+Number of parameters: 1603209
+
+Model Name: resnext50_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 176.81
+Number of parameters: 22041031
+
+Model Name: resnext50_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 140.69
+Number of parameters: 22041031
+
+Model Name: CNN_GRU_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 15.60
+Number of parameters: 4379270
+
+Model Name: CNN_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 4.33
+Number of parameters: 103622
+
+Model Name: LSTM_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 7.00
+Number of parameters: 165206
+
+Model Name: SE_Res2Net_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 12.64
+Number of parameters: 1603209
+
+Model Name: LSTM_CNN_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 5.34
+Number of parameters: 2122054
+
+Model Name: msap_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 29.73
+Number of parameters: 8864105
+
+Model Name: ATT_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 8.56
+Number of parameters: 432570
+
+Model Name: Gated_Res2Net_wisdm_model.pt
+Dataset name: WISDM
+Single Data Point Run Time: 12.34
+Number of parameters: 1603209
+
